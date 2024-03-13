@@ -1,0 +1,3 @@
+C:/Users/25137/Desktop/STLReader/cmake-build-debug/CMakeFiles/STLReader.dir
+C:/Users/25137/Desktop/STLReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25137/Desktop/STLReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
